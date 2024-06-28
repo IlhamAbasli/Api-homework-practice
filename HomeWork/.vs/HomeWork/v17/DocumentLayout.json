@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FX706HE\\Desktop\\APIIntro\\HomeWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC052EC7-DDA6-4AC5-A110-95AD9B3E2702}|HomeWork\\HomeWork.csproj|c:\\users\\fx706he\\desktop\\apiintro\\homework\\homework\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC052EC7-DDA6-4AC5-A110-95AD9B3E2702}|HomeWork\\HomeWork.csproj|solutionrelative:homework\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC052EC7-DDA6-4AC5-A110-95AD9B3E2702}|HomeWork\\HomeWork.csproj|c:\\users\\fx706he\\desktop\\apiintro\\homework\\homework\\services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC052EC7-DDA6-4AC5-A110-95AD9B3E2702}|HomeWork\\HomeWork.csproj|solutionrelative:homework\\services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC052EC7-DDA6-4AC5-A110-95AD9B3E2702}|HomeWork\\HomeWork.csproj|c:\\users\\fx706he\\desktop\\apiintro\\homework\\homework\\services\\interfaces\\icityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC052EC7-DDA6-4AC5-A110-95AD9B3E2702}|HomeWork\\HomeWork.csproj|solutionrelative:homework\\services\\interfaces\\icityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC052EC7-DDA6-4AC5-A110-95AD9B3E2702}|HomeWork\\HomeWork.csproj|c:\\users\\fx706he\\desktop\\apiintro\\homework\\homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC052EC7-DDA6-4AC5-A110-95AD9B3E2702}|HomeWork\\HomeWork.csproj|solutionrelative:homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC052EC7-DDA6-4AC5-A110-95AD9B3E2702}|HomeWork\\HomeWork.csproj|c:\\users\\fx706he\\desktop\\apiintro\\homework\\homework\\services\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC052EC7-DDA6-4AC5-A110-95AD9B3E2702}|HomeWork\\HomeWork.csproj|solutionrelative:homework\\services\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC052EC7-DDA6-4AC5-A110-95AD9B3E2702}|HomeWork\\HomeWork.csproj|c:\\users\\fx706he\\desktop\\apiintro\\homework\\homework\\services\\interfaces\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC052EC7-DDA6-4AC5-A110-95AD9B3E2702}|HomeWork\\HomeWork.csproj|solutionrelative:homework\\services\\interfaces\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICityService.cs",
+              "DocumentMoniker": "C:\\Users\\FX706HE\\Desktop\\APIIntro\\HomeWork\\HomeWork\\Services\\Interfaces\\ICityService.cs",
+              "RelativeDocumentMoniker": "HomeWork\\Services\\Interfaces\\ICityService.cs",
+              "ToolTip": "C:\\Users\\FX706HE\\Desktop\\APIIntro\\HomeWork\\HomeWork\\Services\\Interfaces\\ICityService.cs",
+              "RelativeToolTip": "HomeWork\\Services\\Interfaces\\ICityService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T10:58:36.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CityService.cs",
+              "DocumentMoniker": "C:\\Users\\FX706HE\\Desktop\\APIIntro\\HomeWork\\HomeWork\\Services\\CityService.cs",
+              "RelativeDocumentMoniker": "HomeWork\\Services\\CityService.cs",
+              "ToolTip": "C:\\Users\\FX706HE\\Desktop\\APIIntro\\HomeWork\\HomeWork\\Services\\CityService.cs",
+              "RelativeToolTip": "HomeWork\\Services\\CityService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T10:54:06.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FX706HE\\Desktop\\APIIntro\\HomeWork\\HomeWork\\Program.cs",
+              "RelativeDocumentMoniker": "HomeWork\\Program.cs",
+              "ToolTip": "C:\\Users\\FX706HE\\Desktop\\APIIntro\\HomeWork\\HomeWork\\Program.cs",
+              "RelativeToolTip": "HomeWork\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T10:45:14.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICountryService.cs",
+              "DocumentMoniker": "C:\\Users\\FX706HE\\Desktop\\APIIntro\\HomeWork\\HomeWork\\Services\\Interfaces\\ICountryService.cs",
+              "RelativeDocumentMoniker": "HomeWork\\Services\\Interfaces\\ICountryService.cs",
+              "ToolTip": "C:\\Users\\FX706HE\\Desktop\\APIIntro\\HomeWork\\HomeWork\\Services\\Interfaces\\ICountryService.cs",
+              "RelativeToolTip": "HomeWork\\Services\\Interfaces\\ICountryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T10:39:40.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CountryService.cs",
+              "DocumentMoniker": "C:\\Users\\FX706HE\\Desktop\\APIIntro\\HomeWork\\HomeWork\\Services\\CountryService.cs",
+              "RelativeDocumentMoniker": "HomeWork\\Services\\CountryService.cs",
+              "ToolTip": "C:\\Users\\FX706HE\\Desktop\\APIIntro\\HomeWork\\HomeWork\\Services\\CountryService.cs",
+              "RelativeToolTip": "HomeWork\\Services\\CountryService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowCIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T10:38:08.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegionController.cs",
+              "DocumentMoniker": "C:\\Users\\FX706HE\\Desktop\\APIIntro\\HomeWork\\HomeWork\\Controllers\\RegionController.cs",
+              "RelativeDocumentMoniker": "HomeWork\\Controllers\\RegionController.cs",
+              "ToolTip": "C:\\Users\\FX706HE\\Desktop\\APIIntro\\HomeWork\\HomeWork\\Controllers\\RegionController.cs",
+              "RelativeToolTip": "HomeWork\\Controllers\\RegionController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAcwGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T10:35:52.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

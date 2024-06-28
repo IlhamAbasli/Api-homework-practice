@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FX706HE\\Desktop\\APIIntro\\Api-Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97EE146E-E6B0-43E5-9D23-B15100EF703F}|Api-Practice\\Api-Practice.csproj|c:\\users\\fx706he\\desktop\\apiintro\\api-practice\\api-practice\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EE146E-E6B0-43E5-9D23-B15100EF703F}|Api-Practice\\Api-Practice.csproj|solutionrelative:api-practice\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EE146E-E6B0-43E5-9D23-B15100EF703F}|Api-Practice\\Api-Practice.csproj|c:\\users\\fx706he\\desktop\\apiintro\\api-practice\\api-practice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EE146E-E6B0-43E5-9D23-B15100EF703F}|Api-Practice\\Api-Practice.csproj|solutionrelative:api-practice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EE146E-E6B0-43E5-9D23-B15100EF703F}|Api-Practice\\Api-Practice.csproj|c:\\users\\fx706he\\desktop\\apiintro\\api-practice\\api-practice\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EE146E-E6B0-43E5-9D23-B15100EF703F}|Api-Practice\\Api-Practice.csproj|solutionrelative:api-practice\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EE146E-E6B0-43E5-9D23-B15100EF703F}|Api-Practice\\Api-Practice.csproj|c:\\users\\fx706he\\desktop\\apiintro\\api-practice\\api-practice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EE146E-E6B0-43E5-9D23-B15100EF703F}|Api-Practice\\Api-Practice.csproj|solutionrelative:api-practice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EE146E-E6B0-43E5-9D23-B15100EF703F}|Api-Practice\\Api-Practice.csproj|c:\\users\\fx706he\\desktop\\apiintro\\api-practice\\api-practice\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EE146E-E6B0-43E5-9D23-B15100EF703F}|Api-Practice\\Api-Practice.csproj|solutionrelative:api-practice\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\FX706HE\\Desktop\\APIIntro\\Api-Practice\\Api-Practice\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Api-Practice\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\FX706HE\\Desktop\\APIIntro\\Api-Practice\\Api-Practice\\Models\\Category.cs",
+              "RelativeToolTip": "Api-Practice\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:01:27.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\FX706HE\\Desktop\\APIIntro\\Api-Practice\\Api-Practice\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Api-Practice\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\FX706HE\\Desktop\\APIIntro\\Api-Practice\\Api-Practice\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Api-Practice\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAwDcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:01:02.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\FX706HE\\Desktop\\APIIntro\\Api-Practice\\Api-Practice\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Api-Practice\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\FX706HE\\Desktop\\APIIntro\\Api-Practice\\Api-Practice\\Models\\User.cs",
+              "RelativeToolTip": "Api-Practice\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:58:29.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\FX706HE\\Desktop\\APIIntro\\Api-Practice\\Api-Practice\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Api-Practice\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\FX706HE\\Desktop\\APIIntro\\Api-Practice\\Api-Practice\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Api-Practice\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:57:59.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\FX706HE\\Desktop\\APIIntro\\Api-Practice\\Api-Practice\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Api-Practice\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\FX706HE\\Desktop\\APIIntro\\Api-Practice\\Api-Practice\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Api-Practice\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T18:24:59.495Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
